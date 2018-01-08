@@ -1,3 +1,3 @@
 # spring-flux-example
 
-app take to connection parameters from  environment variable and connection parameters variable name is MONGODB_URI.
+app take to mongdb's connection parameters from  environment variable and it variable name is MONGODB_URI.
